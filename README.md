@@ -1,2 +1,2 @@
-# smkn1haltim2
-mengembangkan web sekolah
+# Alifiyana R Buamonabot
+Web Profil PT Antam Buli
